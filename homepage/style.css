@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://res.cloudinary.com/trive/image/upload/v1568803874/sea.jpg);
+    background-position: center;
+}
+section{
+    text-align: center;
+    margin-top: 150px;
+    color: #ffffff;
+}
+section>img{
+    margin-bottom: 50px;
+}
