@@ -1,0 +1,41 @@
+.img-fluid{
+    margin: 100px 0 70px 0;
+    
+}
+
+.input-icons i { 
+            position: absolute;
+ 	margin-left:2px;
+        } 
+          
+        .input-icons { 
+            width: 100%; 
+            margin-bottom:0; 
+            
+        } 
+          
+        .icon { 
+            padding: 8px; 
+            min-width: 40px; 
+            border-right: 2px solid red;
+            
+        } 
+          
+        .input-field { 
+            min-width: 400px; 
+            padding: 10px; 
+            text-align: center; 
+            margin-bottom: 30px;
+            border: 2px solid red;
+            border-radius: 20px;
+            
+        } 
+#button{
+    min-width: 200px;
+    margin-left:100px;
+    background-color: #ffffff;
+    font-weight: bolder;
+}
+#button:hover{
+    background: #cccccc;
+}
