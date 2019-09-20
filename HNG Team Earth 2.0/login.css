@@ -55,3 +55,8 @@
 }
 #butin:hover{
     background: #0080d0;
+}
+.submit {
+    text-decoration-color: black;
+    margin-left: 20px;
+}
